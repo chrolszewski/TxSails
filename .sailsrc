@@ -1,6 +1,8 @@
 {
   "generators": {
-    "modules": {}
+    "modules": {
+        "test": "sails-generate-unittest"
+    }
   },
   "hooks": {
     "grunt": false
